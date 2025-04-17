@@ -84,10 +84,3 @@ Each timestamp was assigned a market regime label based on clustering results:
 - **Regime Transitions**: The analysis showed low transition rates, suggesting that regimes are relatively stable, which is beneficial for developing specific market strategies.
 
 ---
-
-## **How to Run This Project**
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/market-regime-detection.git
-   cd market-regime-detection
