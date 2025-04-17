@@ -1,16 +1,17 @@
 # Market-Regime-Detection-using-Unsupervised-Learning
 Market Regime Detection using Unsupervised Learning
+
 Project Overview
 This project aims to segment financial markets into distinct behavioral regimes using unsupervised learning techniques. By analyzing high-frequency limit order book and trade volume data, the goal is to identify whether the market is Trending vs Mean-Reverting, Volatile vs Stable, and Liquid vs Illiquid. These insights are valuable for market strategy development and predictive modeling.
 
 Objective
 Detect and segment market regimes based on key factors:
 
-Trending vs Mean-reverting
+1. Trending vs Mean-reverting
 
-Volatile vs Stable
+2. Volatile vs Stable
 
-Liquid vs Illiquid
+3. Liquid vs Illiquid
 
 Using unsupervised learning on real-time data derived from order book and trade volume features.
 
